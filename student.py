@@ -1,7 +1,7 @@
 student_name = "Fenil Paghadar"
 student_id = "24ITUOS083"
 course = "B.Tech"
-department = "Information Technology"
+department = "IT"
 
 print("Student Profile")
 print("----------------")
