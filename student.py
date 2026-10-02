@@ -5,6 +5,8 @@ department = "IT"
 cgpa = 7.1
 email = "24ituos083@ddu.ac.in"
 
+print("Welcome to Student Profile System")
+
 print("Student Profile")
 print("----------------")
 print("Name:", student_name)
