@@ -6,6 +6,7 @@ cgpa = 7.1
 email = "24ituos083@ddu.ac.in"
 
 print("Welcome to Student Profile System")
+print("Feature branch update")
 
 print("Student Profile")
 print("----------------")
