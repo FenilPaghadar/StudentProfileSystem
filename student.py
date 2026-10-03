@@ -9,6 +9,7 @@ print("Welcome to Student Profile System")
 print("Feature branch update")
 
 print("Jenkins event trigger test")
+print("Automatic Jenkins trigger verified")
 
 print("Student Profile")
 print("----------------")
