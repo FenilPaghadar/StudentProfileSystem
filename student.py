@@ -8,6 +8,8 @@ email = "24ituos083@ddu.ac.in"
 print("Welcome to Student Profile System")
 print("Feature branch update")
 
+print("Jenkins event trigger test")
+
 print("Student Profile")
 print("----------------")
 print("Name:", student_name)
